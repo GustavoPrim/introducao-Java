@@ -16,7 +16,7 @@ public class Main {
         } else if (idade > 21 && idade <= 60) {
             System.out.println("É um adulto");
         } else {
-            System.out.println("Ta velho ein");
+            System.out.println("Idoso");
         }
 
         int i = 10;
